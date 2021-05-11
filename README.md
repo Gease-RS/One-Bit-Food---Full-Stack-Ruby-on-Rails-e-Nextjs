@@ -33,3 +33,10 @@ Gerando Controllers
 
 Gerando Rotas
 * rails routes
+
+Trabalhando com imagens
+* rails active_storage:install //após execute 
+* rails db:migrate
+
+Rodar Rails
+* rails s
